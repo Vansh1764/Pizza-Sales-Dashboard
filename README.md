@@ -16,11 +16,13 @@
 
 <img width="562" alt="image" src="https://github.com/user-attachments/assets/98d3ecde-055e-4293-97ba-39e231dac409" />
 
+
 - Page 2: Best/Worst Seller
    
 <img width="559" alt="image" src="https://github.com/user-attachments/assets/ffc5b0e9-2a3d-4b2e-a723-eb8ee380fa35" />
 
+
 - Page 3: Summary
 
-  <img width="562" alt="image" src="https://github.com/user-attachments/assets/ba8c900e-47b5-4aa8-8da3-b0f9bb6b0381" />
+<img width="562" alt="image" src="https://github.com/user-attachments/assets/ba8c900e-47b5-4aa8-8da3-b0f9bb6b0381" />
  
